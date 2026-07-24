@@ -1,6 +1,6 @@
 CO2-Emission-Prediction-Deep-learning
 
-
+``` text
 CO2-Emission-Prediction/
 │
 ├── co2.csv
@@ -13,3 +13,6 @@ CO2-Emission-Prediction/
 ├── LICENSE
 ├── requirements.txt
 └── README.md
+```
+
+https://github.com/Matin-python/CO2-Emission-Prediction-Linear-Regression
