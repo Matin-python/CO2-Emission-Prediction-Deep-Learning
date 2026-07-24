@@ -16,3 +16,15 @@ CO2-Emission-Prediction/
 ```
 
 https://github.com/Matin-python/CO2-Emission-Prediction-Linear-Regression
+
+## License
+
+This project is licensed under the MIT License.
+
+## Author
+
+**Mohammad Reza Bakhshandeh**
+
+Electrical Engineering (Electronics) Graduate
+
+Interested in Python Development, Machine Learning, Computer Vision, Artificial Intelligence, and Data Science.
