@@ -1,0 +1,9 @@
+tensorflow
+keras
+pandas
+numpy
+matplotlib
+scikit-learn
+keras-visualizer
+graphviz
+pydot
