@@ -2,7 +2,7 @@
 
 Predicting CO₂ emissions using a **Deep Neural Network (DNN)** built with **TensorFlow/Keras**. This project demonstrates how deep learning can model complex relationships between multiple input features and CO₂ emissions using a large dataset.
 
----
+ 
 
 ## Overview
 
@@ -10,7 +10,7 @@ This project trains a feedforward neural network to predict CO₂ emissions from
 
 The goal of this project is to compare a deep learning solution with a traditional machine learning approach and understand how neural networks perform on larger datasets.
 
----
+ 
 
 ## Features
 
@@ -23,7 +23,7 @@ The goal of this project is to compare a deep learning solution with a tradition
 * ⚡ Adam optimizer
 * 📚 Clean and beginner-friendly implementation
 
----
+ 
 
 ## Technologies Used
 
@@ -34,7 +34,6 @@ The goal of this project is to compare a deep learning solution with a tradition
 * Matplotlib
 * keras-visualizer
 
----
 
 ## Dataset
 
@@ -47,8 +46,7 @@ Example workflow:
 * Split the data into training and testing sets
 * Train the neural network
 * Evaluate prediction accuracy
-
----
+ 
 
 ## Neural Network Architecture
 
@@ -65,24 +63,22 @@ Output Layer (1 neuron)
 ### Model Summary
 
 | Layer  | Units | Activation |
-| ------ | ----: | ---------- |
+|    |  -: |    - |
 | Input  |     5 | -          |
 | Dense  |    20 | ReLU       |
 | Output |     1 | Linear     |
 
----
 
 ## Training Configuration
 
 | Parameter        |                    Value |
-| ---------------- | -----------------------: |
+|      - |        --: |
 | Optimizer        |                     Adam |
 | Loss Function    | Mean Squared Error (MSE) |
 | Epochs           |                      200 |
 | Batch Size       |                  Default |
 | Train/Test Split |                80% / 20% |
 
----
 
 ## Project Structure
 
@@ -99,8 +95,7 @@ CO2-Emission-Prediction-Deep-Learning/
 ├── LICENSE
 └── README.md
 ```
-
----
+ 
 
 ## Installation
 
@@ -128,8 +123,6 @@ or install manually:
 pip install tensorflow pandas scikit-learn matplotlib keras-visualizer
 ```
 
----
-
 ## How to Run
 
 ```bash
@@ -145,8 +138,7 @@ The program will:
 5. Evaluate the model using Mean Squared Error.
 6. Plot the training loss.
 7. Save a visualization of the network architecture.
-
----
+ 
 
 ## Results
 
@@ -158,24 +150,18 @@ The project reports:
 
 These metrics help evaluate the performance of the neural network.
 
----
 
 ## Screenshots
 
 ### Neural Network Architecture
 
-```text
-(Add model_DL.png here)
-```
+[model_DL](model_DL.png)
 
 ### Training Loss
 
-```text
-(Add loss.png here)
-```
+[Loss](loss.png)
 
----
-
+ 
 ## Related Projects
 
 This project is part of a series exploring different approaches to CO₂ emission prediction.
@@ -187,7 +173,7 @@ A traditional machine learning implementation using **Linear Regression** from *
 **Comparison**
 
 | Linear Regression        | Deep Learning                        |
-| ------------------------ | ------------------------------------ |
+|          |              |
 | Machine Learning         | Deep Learning                        |
 | Linear Regression        | Neural Network                       |
 | 500 samples              | 7,300+ samples                       |
