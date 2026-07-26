@@ -155,11 +155,11 @@ These metrics help evaluate the performance of the neural network.
 
 ### Neural Network Architecture
 
-[model_DL](model_DL.png)
+![model_DL](model_DL.png)
 
 ### Training Loss
 
-[Loss](loss.png)
+![Loss](loss.png)
 
  
 ## Related Projects
