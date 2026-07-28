@@ -91,6 +91,7 @@ CO2-Emission-Prediction-Deep-Learning/
 │
 ├── co2.csv
 ├── co2 prediction.ipynb
+├── co2 prediction.py
 ├── model_DL.png
 ├── screenshots/
 │   ├── model.png
@@ -130,7 +131,7 @@ pip install tensorflow pandas scikit-learn matplotlib keras-visualizer
 ## How to Run
 
 ```bash
-python co2 prediction.ipynb
+python co2 prediction.py
 ```
 
 The program will:
