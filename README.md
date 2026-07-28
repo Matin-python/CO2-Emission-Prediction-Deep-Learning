@@ -93,9 +93,7 @@ CO2-Emission-Prediction-Deep-Learning/
 ├── co2 prediction.ipynb
 ├── co2 prediction.py
 ├── model_DL.png
-├── screenshots/
-│   ├── model.png
-│   └── loss.png
+├── loss.png
 ├── requirements.txt
 ├── LICENSE
 └── README.md
