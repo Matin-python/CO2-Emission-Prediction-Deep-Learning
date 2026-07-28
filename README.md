@@ -2,7 +2,6 @@
 
 Predicting CO₂ emissions using a **Deep Neural Network (DNN)** built with **TensorFlow/Keras**. This project demonstrates how deep learning can model complex relationships between multiple input features and CO₂ emissions using a large dataset.
 
- 
 
 ## Overview
 
@@ -10,7 +9,12 @@ This project trains a feedforward neural network to predict CO₂ emissions from
 
 The goal of this project is to compare a deep learning solution with a traditional machine learning approach and understand how neural networks perform on larger datasets.
 
- 
+
+## Project Files
+
+- **co2 prediction.py** – Clean Python implementation of the project.
+- **co2 prediction.ipynb** – Jupyter Notebook version with step-by-step execution and visualizations.
+
 
 ## Features
 
